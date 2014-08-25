@@ -1,0 +1,8 @@
+<link rel="import" href="bower_components/core-ajax/core-ajax.html"> 
+<polymer-element name="log-error" attributes="api-uri"> 
+<template bind="{{params}}">     
+       <core-ajax auto id="request" contentType="application/json" method="POST" body="{{params}}" url="{{['api-uri']}}">
+</core-ajax>
+</template> 
+<script src="errorHandle.js"></script> 
+</polymer-element>
