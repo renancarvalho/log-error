@@ -14,6 +14,7 @@
   ],
   "dependencies": {
     "polymer": "~0.3.5",
-    "core-ajax": "polymer/core-ajax#~0.3.5"
+    "core-ajax": "polymer/core-ajax#~0.3.5",
+    "platform": "polymer/platform#~0.3.5"
   }
 }
