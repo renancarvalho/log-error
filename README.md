@@ -53,3 +53,4 @@ More info of how to use see <a href="www.rcarvalhojs.com/log-error">here.<a/>
 
 
 . 
+Status API Training Shop Blog About © 2014 GitHub, Inc. Terms Privacy Security Contact 
