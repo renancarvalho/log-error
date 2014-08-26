@@ -36,8 +36,6 @@ Maintained by Renan Carvalho.
  
 More info of how to use see <a href="www.rcarvalhojs.com/log-error">here.<a/>
 
-The WebComponent will POST th
-
 # Contributing
 
 <ol class="task-list">
