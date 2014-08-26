@@ -34,11 +34,10 @@ Maintained by Renan Carvalho.
 </pre>
 
  
-<<<<<<< HEAD
+
 More info of how to use see <a href="http://www.rcarvalhojs.com/javascript/2014/08/25/WebComponent-log-Error.html">here.<a/>
-=======
-More info of how to use see <a href="http://www.rcarvalhojs.com/log-error">here.<a/>
->>>>>>> 3118bab59dbfdec919b3a68c74e64ed9708798bb
+
+
 
 # Contributing
 
