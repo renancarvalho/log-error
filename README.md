@@ -34,7 +34,7 @@ Maintained by Renan Carvalho.
 </pre>
 
  
-More info of how to use see <a href="www.rcarvalhojs.com/log-error">here.<a/>
+More info of how to use see <a href="http://www.rcarvalhojs.com/log-error">here.<a/>
 
 # Contributing
 
