@@ -6,9 +6,9 @@
   ],
   "description": "Log-Error ia a web component that calls your API when a js error occurs. Receive on your api the reference error, target file and the line of the error.",
   "keywords": [
-    "Polymer",
-    "Log-Error",
-    "Web-Components"
+    "polymer",
+    "log-error",
+    "web-components"
   ],
   "license": "MIT",
   "homepage": "http://www.rcarvalhojs.com",
