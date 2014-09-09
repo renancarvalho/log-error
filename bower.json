@@ -4,7 +4,7 @@
   "authors": [
     "Renan Carvalho <renansscarvalho@gmail.com>"
   ],
-  "description": "Log-Error ia a web component that calls your API when a js error occurs. Receive on your api the reference error, target file and the line of the error.",
+  "description": "Log-Error is a web component that calls your API when a js error occurs. Receive on your api the reference error, target file and the line of the error.",
   "keywords": [
     "polymer",
     "log-error",
