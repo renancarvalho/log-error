@@ -9,6 +9,7 @@
     "polymer",
     "log-error",
     "web-components"
+    
   ],
   "license": "MIT",
   "homepage": "http://www.rcarvalhojs.com",
